@@ -1,7 +1,7 @@
 ![Build](https://github.com/ingomohr/cucumber-example/actions/workflows/mvn-build-master.yml/badge.svg?branch=master)
 
 ## What's This?
-This is a small example of how to use Cucumber in a Java project (Java 17, JUnit5)
+This is a small example of how to use Cucumber in a Java project (Java 21, JUnit5)
 
 It's based on:
 * [Cucumber-JVM instruction](https://cucumber.io/docs/installation/java/)
